@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "CF_OG-CuJC.aternos.me",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "your.server.ip",
-    "port": 25565,
+    "port": 59313,
     "version": "",
     "try-creative": false
   },
